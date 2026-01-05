@@ -1,4 +1,4 @@
-# Fake-News-Project
+# Fake News Detection Engine
 
 The project preprocesses a data set of news articles -- each predetermined to either be fake or real, by applying the Term Frequency - Inverse Document Frequency (TF-IDF) analysis. Afterwards, a Passive Aggressive Classifier is fitted with the training data to be used as a model for the test data. Currently, the accuracy of the model based on the data set provided is approximately 93%, although the number fluctuates by +/- 0.5%. 
 
